@@ -1,0 +1,107 @@
+# Copyright (C) 2013 WordPress
+# This file is distributed under the same license as the WordPress package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce EC like JP EC\n"
+"Report-Msgid-Bugs-To: http://www.autoproject.nagoya\n"
+"POT-Creation-Date: 2013-12-26 17:03+0900\n"
+"PO-Revision-Date: 2017-07-19 22:41+0900\n"
+"Language-Team: AP <info@autoproject.biz>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+msgid "Woocommerce Custom Emails Settings"
+msgstr "Woocommerce カスタムEメール設定"
+
+msgid "Custom Emails"
+msgstr "メール設定"
+
+msgid "Add Custom Emails"
+msgstr "新規追加"
+
+msgid "View Your Custom Emails"
+msgstr "一覧"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "( Title of the Email. )"
+msgstr "　"
+
+msgid "Description"
+msgstr "説明"
+
+msgid "( Email Description to display at Woocommerce Email Setting. )"
+msgstr "　"
+
+msgid "Subject"
+msgstr "件名"
+
+msgid "Recipients"
+msgstr "　"
+
+msgid "Recipients email addresses separated with comma"
+msgstr "　"
+
+msgid "( Email Subject <br/>[Try this placeholders : <i>{site_title}, {order_number}, {order_date}</i>] )"
+msgstr "件名には、{site_title}, {order_number}, {order_date}といったタグを利用できます。"
+
+msgid "Send Only To Customer?"
+msgstr "　"
+
+msgid "( Enable this to send this email to customer. If this field is enabled then `Recipients` field will be added to BCC. )"
+msgstr "　"
+
+msgid "Heading"
+msgstr "管理者受信用メールアドレス"
+
+msgid "( Email Default Heading )"
+msgstr "　"
+
+msgid "Choose Order Status"
+msgstr "　"
+
+msgid "( Choose order statuses when changed this email should fire. )"
+msgstr "　"
+
+msgid "Select From Status"
+msgstr "　"
+
+msgid "Select To Status"
+msgstr "　"
+
+msgid "Add Another"
+msgstr "　"
+
+msgid "Delete"
+msgstr "削除"
+
+msgid "Put It In Order Actions?"
+msgstr "　"
+
+msgid "( Order Edit screen at backend will have this email as order action. )"
+msgstr "　"
+
+msgid "Enable?"
+msgstr "　有効にする"
+
+msgid "( Enable this email here. )"
+msgstr "　"
+
+msgid "Save Changes"
+msgstr "登録・更新"
+
+msgid "New Order Email"
+msgstr "新規注文用メール"
+
+msgid "To use this setting, you need 'woocommerce_like_for_jp_ec' plugin."
+msgstr "この機能を利用するためには、woocommerce_like_for_jp_ec　プラグインが必要です。"
+
+msgid "Footer Setting"
+msgstr "署名設定"
+

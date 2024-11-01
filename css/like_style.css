@@ -1,0 +1,55 @@
+.order-status.status-new-order{
+    background-color: brown;
+    color:white;
+}
+.order-status.status-waiting-payment{
+    background-color: orange;
+    color:white;
+}
+.order-status.status-reserve_shipping{
+    background-color: green;
+    color:white;    
+}
+.wc4jp_tracking_ship_date_field{
+    display: none;
+}
+#wc_jpec_upload_wc_orders{
+    padding:2rem;
+}
+#wc_jpec_upload_wc_orders li{
+    list-style: disc;
+    margin-left:2rem;
+}
+#wc_jpec_upload_wc_orders_form{
+    margin: 2rem 0;
+}
+.upload_success{
+    padding:2rem;
+    color:green;
+    font-weight: bold;
+}
+
+#ap-wrap{
+    padding:20px;
+}
+#ap-link-wrap{
+    float: right;
+    height: 28px;
+    margin: 0 0 0 6px;
+    border: 1px solid #ddd;
+    border-top: none;
+    background: #fff;
+    box-shadow: 0 1px 1px -1px rgba(0,0,0,.1);
+}
+
+#ap-wrap dt {
+    float: left ;
+    clear: left ;
+    margin-right: 0.5em ;
+    width: 120px ;
+}
+    
+#ap-wrap dd {
+    float: left ;
+    margin-left: 1em ;
+}

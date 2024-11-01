@@ -1,0 +1,48 @@
+#check_email_over_layer{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: #000;
+    width: 100%;
+	height: 100%;
+	z-index:1;
+	display: none;
+}
+.check_email_over_layer{
+		position:			absolute;
+		top:				0;
+		left:				0;
+		width:				95%;
+		background:			white;
+		opacity:			1!important;
+        z-index:			1;
+		padding: 5% 2% 10% 2%;
+}
+.check_email_over_layer h1{
+    font-size:15px;
+}
+.check_email_close{
+	position: absolute;
+	top:0x;
+	right:100px;
+	font-size:30px;
+	cursor: pointer;
+}
+#mail_setting .inside{
+	margin:0px;
+	padding:0px;
+}
+#mail_setting label{
+	font-weight: bold;
+	padding:0 10px 0 10px;
+}
+#mail_setting input, #mail_setting textarea, #mail_setting select{
+	margin:10px 10px 10px 10px;
+	border: 1px solid #ddd;
+	min-width:90%;
+}
+.woo_shipping_inner_box{
+	padding-top:10px;
+	padding-bottom:10px;
+	border-top: #e8e8e8 solid 1px;
+}
